@@ -1,1 +1,1 @@
-const a = 'dev_first';
+const a = 'dev_name_from_master';
